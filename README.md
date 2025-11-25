@@ -271,5 +271,4 @@ If you want, I can:
 * Convert the backend into a full Supabase Edge Function deployable bundle
 
 ---
-
-*README generated for TheMealDB Explorer — happy cooking!*
+— happy cooking!*
